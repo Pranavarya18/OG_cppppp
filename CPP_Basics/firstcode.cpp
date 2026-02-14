@@ -1,6 +1,6 @@
-#include<iostream>
-using namespace std;
-int main(){
-    cout<< "HELLO OG"<<endl;
-    return 0;
-}
+// #include<iostream>
+// using namespace std;
+// int main(){
+//     cout<< "HELLO OG"<<endl;
+//     return 0;
+// }
